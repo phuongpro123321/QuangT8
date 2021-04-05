@@ -4,6 +4,6 @@
 	<title></title>
 </head>
 <body>
-	<p>Hello World !!!</p>
+	<p>Thằng học dốt</p>
 </body>
 </html>
